@@ -1,8 +1,4 @@
-## Hi there 👋
-- 🌱 I’m currently learning how to use this web site
-- 💬 Ask me about my aquarium!
-
-![IMG_0695](https://github.com/user-attachments/assets/fa706843-c662-4389-b2b6-ecf82f753a1b)
+## Hi there 👋 🌱 I’m currently learning how to use this web site 💬 Ask me about my aquarium! ![IMG_0695](https://github.com/user-attachments/assets/fa706843-c662-4389-b2b6-ecf82f753a1b)
 
 <!--
 **taras-mckey/taras-mckey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
